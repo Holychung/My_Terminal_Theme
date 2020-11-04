@@ -1,5 +1,10 @@
 # WSL Terminal Customized Config
 
+Demo:
+![](https://i.imgur.com/UclDDCS.png)
+
+## Get Started
+
 `setting.json`
 
 [Windows Terminal Themes](https://windowsterminalthemes.dev/)
