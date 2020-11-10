@@ -1,17 +1,17 @@
 # Mac Terminal Customized Config
 
-Demo:
+## Demo:
 ![](https://i.imgur.com/xi4PH3i.png)
 
 ## Get Started
 
-`Preferences setting`
+### `Preferences setting`
 ![](https://i.imgur.com/HRsjtth.png)
 
-`font`
+### `font`
 SauceCodePro Nerd Font
 
-`.zshrc`
+### `.zshrc`
 
 ```bash=
 # Fix prompt at the bottom of the terminal window
@@ -19,7 +19,7 @@ printf '\n%.0s' {1..100}
 alias cl='clear &&  printf "\n%.0s" {1..100}'
 ```
 
-`.p10k.zsh`
+### `.p10k.zsh`
 
 customize p10k dir color and `source ~/.p10k.zsh`
 
