@@ -1,11 +1,11 @@
 # WSL Terminal Customized Config
 
-Demo:
+## Demo:
 ![](https://i.imgur.com/UclDDCS.png)
 
 ## Get Started
 
-`setting.json`
+### `setting.json`
 
 [Windows Terminal Themes](https://windowsterminalthemes.dev/)
 
@@ -46,7 +46,7 @@ shortcut & cusor shape
 "cursorShape": "filledBox",
 ```
 
-`.zshrc`
+### `.zshrc`
 
 ```bash=
 # Fix LS color on Windows Terminal
@@ -57,7 +57,7 @@ export LS_COLORS='ow=01;36;40'
 printf '\n%.0s' {1..100}
 ```
 
-`.p10k.zsh`
+### `.p10k.zsh`
 
 customize p10k dir color and `source ~/.p10k.zsh`
 
