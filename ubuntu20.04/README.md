@@ -5,7 +5,7 @@
 
 ## Get Started
 
-### Manual font installation
+### `Manual font installation`
 
 Download these four ttf files:
 
