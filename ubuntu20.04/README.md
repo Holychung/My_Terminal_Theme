@@ -73,6 +73,8 @@ alias gco="git checkout"
 
 # Fix prompt at the bottom of the terminal window
 printf '\n%.0s' {1..100}
+
+alias cl="clear && printf '\n%.0s' {1..100}"
 ```
 
 ### `.p10k.zsh`
