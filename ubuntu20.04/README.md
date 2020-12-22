@@ -54,6 +54,15 @@ Download these four ttf files:
 ### `.zshrc`
 
 ```bash=
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+plugins=(
+git
+zsh-completions 
+zsh-autosuggestions 
+zsh-syntax-highlighting
+)
+
 alias gs="git status"
 alias ga="git add"
 alias gb="git branch"
