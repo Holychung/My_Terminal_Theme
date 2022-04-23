@@ -3,6 +3,11 @@
 ## Demo:
 ![](https://i.imgur.com/UclDDCS.png)
 
+## Path
+```
+C:\Users\holy\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04LTS_79rhkp1fndgsc\LocalState\rootfs
+```
+
 ## Get Started
 
 ### `setting.json`
