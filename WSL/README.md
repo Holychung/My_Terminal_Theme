@@ -6,6 +6,8 @@
 ## Path
 ```
 C:\Users\holy\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu20.04LTS_79rhkp1fndgsc\LocalState\rootfs
+
+/mnt/c/U/holy
 ```
 
 ## Get Started
