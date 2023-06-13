@@ -135,10 +135,6 @@ alias gl='git log'
 alias gco='git checkout'
 alias grep='grep --color'
 alias py='python3'
-alias sshcai='ssh mpc@140.113.24.2'
-alias sshca='ssh nctuca@140.113.17.22'
-alias sshvm='ssh holy@140.113.208.103 -p1234'
-alias sshcai='ssh moonoftree@140.113.24.2'
 
 # Fix prompt at the bottom of the terminal window
 printf '\n%.0s' {1..100}
